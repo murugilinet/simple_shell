@@ -4,7 +4,7 @@
  * print_alias - add, remove or show aliases.
  * @data: struct for the program's data.
  * @alias_name : name of the alias to be printed.
- * Return: zero if sucess, or other number if its declared in the arguments
+ * Return: zero if sucess, or other number if its declared in the arguments.
  */
 int print_alias(info *data, char *alias_name)
 {
