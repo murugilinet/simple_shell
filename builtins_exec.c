@@ -3,7 +3,7 @@
  * exec_list- searches for match and execute the associate builtin.
  * @data : struct for programs data.
  * Return: the return of the function executed if there is a match.
- * -1 otherwise
+ * -1 otherwise.
  */
 int exec_list(info *data)
 {
