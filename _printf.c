@@ -3,7 +3,7 @@
 /**
  * _prints- prints an array of char in STDOUT.
  * @str: pointer to array of chars.
- * Return: number of bytes writen.
+ * Return: number of bytes writen
  * -1 on error and errno set appropriately.
  */
 int _prints(char *str)
