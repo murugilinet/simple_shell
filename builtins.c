@@ -1,9 +1,9 @@
 #include "shell.h"
 
 /**
- * builtin_exit - exit of the program with the status code
- * @data: struct for the program's data
- * Return: 0 if sucess, or other number if its declared in the arguments
+ * builtin_exit - exit of the program with the status code.
+ * @data: struct for the program's data.
+ * Return: 0 if sucess, or other number if its declared in the arguments.
  */
 int builtin_exit(info *data)
 {
