@@ -1,8 +1,8 @@
 #include "shell.h"
 /**
- * str_len- gets length of a string
- * @str: pointer to string
- * Return: length of string
+ * str_len- gets length of a string.
+ * @str: pointer to string.
+ * Return: length of string.
  */
 int str_len(char *str)
 {
