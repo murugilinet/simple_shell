@@ -1,5 +1,5 @@
 # Simple Shell
-Second project with partner
+Second project with partner.
 Replicates functionalities of the simple shell sh
 the following builtins are supporte
 | Command             | Definition                                                                                |
